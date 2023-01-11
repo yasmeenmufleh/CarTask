@@ -16,7 +16,7 @@ namespace CarTask
                 var filter = new CarFilter
                 {   //audi,four,sedan,front,five,115,17450
 
-                    //Make = "Audi",
+                    Make = "Audi",
                     MinHorsePower = 100,
                     MaxHorsePower = 150,
                     MinPrice = 10000,
