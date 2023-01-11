@@ -15,7 +15,7 @@ namespace CarTask
         */
         public void LoadCarsData()
             {
-                if (_cars == null)
+                if (_cars.Count != 0)
                 {
                     return;
                 }
